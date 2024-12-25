@@ -16,7 +16,6 @@ The **Restaurant Menu App** is a visually appealing and user-friendly web applic
 - 🔥 Lightweight and optimized for quick loading.  
 
 ## 📸 Preview  
-![App Screenshot](https://via.placeholder.com/800x400)  
 ![image](https://github.com/user-attachments/assets/418e1f59-a4d8-4f38-ab33-4d3fb42a85ac)
 
 
